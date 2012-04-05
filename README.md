@@ -13,7 +13,7 @@
 6.  [lifty][6]
 7.  this lift project template
 
-* #2-#3 can be done by installing the [Typesafe Stack][8]
+\* #2-#3 can be done by installing the [Typesafe Stack][8]
 
 [1]:  http://oracle.com/java 
 [2]:  http://www.scala-lang.org/downloads 
@@ -21,6 +21,6 @@
 [4]:  https://github.com/n8han/giter8 
 [5]:  https://github.com/paulp/sbt-extras
 [6]:  https://github.com/Lifty/lifty 
-[7]:   
+
 [8]:  http://typesafe.com/stack/download 
 

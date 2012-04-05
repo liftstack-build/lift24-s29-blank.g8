@@ -7,13 +7,13 @@
 3.  [sbt 0.10+][3] installed and in your PATH\*
 4.  [giter8][4] installed\*
 
+\* #2-#3 can be done by installing the [Typesafe Stack][8]
+
 ### Installs
 
 5.  [sbt-extras][5] script 
 6.  [lifty][6]
 7.  this lift project template
-
-\* #2-#3 can be done by installing the [Typesafe Stack][8]
 
 [1]:  http://oracle.com/java 
 [2]:  http://www.scala-lang.org/downloads 

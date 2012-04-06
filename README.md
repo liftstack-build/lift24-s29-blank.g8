@@ -28,7 +28,7 @@ Lift will be running on localhost:9000.
 
 ### Installs:
 
-5.  [sbt-extras][5] script as lift24-s29-blank/sbt*
+5.  [sbt-extras][5] script as [project dir]/sbt*
 6.  [lifty sbt plugin][6] to ~/.sbt/plugins
 7.  this lift project template in the current directory
 

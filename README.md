@@ -19,8 +19,8 @@
 
 After you've completed 1-4, simply run:
 
-    g8 lift-stack/lift24-s29-blank.g8
-    cd lift24-s29-blank.g8
+    g8 lift-stack/lift24-s29-blank
+    cd lift24-s29-blank
     sbt
     lift jetty-run
 

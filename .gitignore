@@ -104,3 +104,10 @@ build
 *.perspectivev3
 .oh-my-zsh
 
+# # Giter8 Project Stuff #
+# ########################
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/

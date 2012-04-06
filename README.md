@@ -7,7 +7,7 @@
 3.  [sbt 0.10+][3] installed and on your PATH \*
 4.  [giter8][4] installed and on your PATH \*
 
-\* #2-#3 can be done by installing the [Typesafe Stack][8]
+\* #2-#3 can be easily done by installing the [Typesafe Stack][8]
 
 ### Installs:
 

@@ -3,9 +3,9 @@
 ### Requires:
 
 1.  [Java SDK 6+][1] installed
-2.  [Scala 2.9][2] installed\*
-3.  [sbt 0.10+][3] installed and in your PATH\*
-4.  [giter8][4] installed\*
+2.  [Scala 2.9][2] installed \*
+3.  [sbt 0.10+][3] installed and in your PATH \*
+4.  [giter8][4] installed and in your PATH \*
 
 \* #2-#3 can be done by installing the [Typesafe Stack][8]
 

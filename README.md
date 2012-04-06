@@ -15,6 +15,17 @@
 6.  [lifty sbt plugin][6]
 7.  this lift project template
 
+### Setup:
+
+After you've completed 1-4, simply run:
+
+    g8 lift-stack/lift24-s29-blank.g8
+    cd lift24-s29-blank.g8
+    sbt
+    lift jetty-run
+
+Lift will be running on localhost:9000.
+
 [1]:  http://oracle.com/java 
 [2]:  http://www.scala-lang.org/downloads 
 [3]:  https://github.com/harrah/xsbt/ 

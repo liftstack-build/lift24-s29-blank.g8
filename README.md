@@ -7,10 +7,10 @@
     - Multiple install options.  For \*nix users, if you choose to install via repo for your distro, a required dependency is OpenJDK.  If you already have Oracle Java installed and want to run Typesafe and Lift on that instead of OpenJDK, your best best is to use the Unversal installer (just a zipped archive you put anywhere and add the bin directory to your PATH).
 3.  Install Lift using giter8, run it with sbt and lifty:
 
-    g8 lift-stack/lift24-s29-blank
-    cd lift24-s29-blank
-    sbt
-    lift jetty-run
+    `g8 lift-stack/lift24-s29-blank`
+    `cd lift24-s29-blank`
+    `sbt`
+    `lift jetty-run`
 
 Lift will be running on localhost:9000.
 

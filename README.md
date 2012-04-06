@@ -14,7 +14,7 @@
 
 Lift will be running on localhost:9000.
     
-\* *Multiple install options.  For *\***nix users, if you choose to install via repo for your distro, a required dependency is OpenJDK.  If you already have Oracle Java installed and want to run Typesafe and Lift on that instead of OpenJDK, your best bet is to use the last option on the download page - the Unversal Installer (just a zipped archive you put anywhere and add the bin directory to your PATH).*
+\* *Multiple install options.  For \***nix users, if you choose to install via repo for your distro, a required dependency is OpenJDK.  If you already have Oracle Java installed and want to run Typesafe and Lift on that instead of OpenJDK, your best bet is to use the last option on the download page - the Unversal Installer (just a zipped archive you put anywhere and add the bin directory to your PATH).*
 
 ### Requires:
 

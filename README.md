@@ -3,7 +3,7 @@
 ### Quick Setup:
 
 1.  Install [Java SDK][1] or [OpenJDK][0].
-2.  Install the [Typesafe Stack][8] (Scala, sbt, giter8) \*
+2.  Install the [Typesafe Stack][8] (Scala, sbt, sbt-extras, giter8) \*
 3.  Install Lift using giter8, run it with sbt and lifty:
 
 <div></div>
@@ -21,16 +21,16 @@ Lift will be running on localhost:9000.
 
 1.  [Java 6+][1] or [OpenJDK][0] installed
 2.  [Scala 2.9][2] installed \*
-3.  [sbt 0.11+][3] installed and on your PATH \*
-4.  [giter8][4] installed and on your PATH \*
+3.  [sbt 0.11+][3] installed \*
+4.  [sbt launcher script][5] installed and on your PATH \*
+5.  [giter8][4] installed and on your PATH \*
 
-\* #2-#3 can be easily done by installing the [Typesafe Stack][8]
+\* #2-#5 can be easily done by installing the [Typesafe Stack][8]
 
 ### Installs:
 
-5.  [sbt-extras][5] script as [project dir]/sbt*
-6.  [lifty sbt plugin][6] to ~/.sbt/plugins
-7.  this lift project template in the current directory
+5.  [lifty sbt plugin][6] to ~/.sbt/plugins
+6.  this lift project template in the current directory
 
 
 [0]:  http://openjdk.java.net/install/

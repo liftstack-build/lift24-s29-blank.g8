@@ -6,6 +6,8 @@
 2.  Install the [Typesafe Stack][8] (Scala, sbt, giter8) \*
 3.  Install Lift using giter8, run it with sbt and lifty:
 
+After you've completed 1-4, simply run:
+
     g8 lift-stack/lift24-s29-blank
     cd lift24-s29-blank
     sbt
@@ -17,9 +19,9 @@ Lift will be running on localhost:9000.
 
 ### Requires:
 
-1.  [Java SDK 6+][1] installed
+1.  [Java 6+][1] or [OpenJDK][0] installed
 2.  [Scala 2.9][2] installed \*
-3.  [sbt 0.10+][3] installed and on your PATH \*
+3.  [sbt 0.11+][3] installed and on your PATH \*
 4.  [giter8][4] installed and on your PATH \*
 
 \* #2-#3 can be easily done by installing the [Typesafe Stack][8]

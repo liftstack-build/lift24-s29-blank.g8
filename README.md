@@ -28,20 +28,10 @@ Lift will be running on localhost:9000.
 
 ### Installs:
 
-5.  [sbt-extras][5] script 
-6.  [lifty sbt plugin][6]
-7.  this lift project template
+5.  [sbt-extras][5] script as lift24-s29-blank/sbt*
+6.  [lifty sbt plugin][6] to ~/.sbt/plugins
+7.  this lift project template in the current directory
 
-### Setup:
-
-After you've completed 1-4, simply run:
-
-    g8 lift-stack/lift24-s29-blank
-    cd lift24-s29-blank
-    sbt
-    lift jetty-run
-
-Lift will be running on localhost:9000.
 
 [0]:  http://openjdk.java.net/install/
 [1]:  http://oracle.com/java 

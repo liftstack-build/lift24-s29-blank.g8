@@ -1,5 +1,17 @@
 ## Giter8 template for Lift 2.4, Scala 2.9, blank, html5-ready
 
+### Quick Setup:
+
+1.  Install [Java][1]
+2.  Install the [Typesafe Stack][8] (Scala, sbt, giter8)
+3.  Install Lift using giter8, run it with sbt and lifty:
+    g8 lift-stack/lift24-s29-blank
+    cd lift24-s29-blank
+    sbt
+    lift jetty-run
+
+Lift will be running on localhost:9000.
+
 ### Requires:
 
 1.  [Java SDK 6+][1] installed

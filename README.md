@@ -7,8 +7,11 @@
 3.  Install Lift using giter8, run it with sbt and lifty:
 
     >`g8 lift-stack/lift24-s29-blank`
+
     >`cd lift24-s29-blank`
+
     >`sbt`
+
     >`lift jetty-run`
 
 Lift will be running on localhost:9000.

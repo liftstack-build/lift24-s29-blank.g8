@@ -4,12 +4,12 @@
 
 1.  Install [Java SDK][1] or [OpenJDK][0].
 2.  Install the [Typesafe Stack][8] (Scala, sbt, sbt-extras, giter8) \*
-3.  Install Lift using giter8, run it with sbt and lifty:
+3.  Install Lift and this template using giter8, run it with sbt and lifty:
 
 <div></div>
 
     g8 lift-stack/lift24-s29-blank
-    cd lift24-s29-blank
+    cd lift24-s29-blank (or whatever project name you choose from previous step)
     sbt
     lift jetty-run
 

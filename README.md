@@ -1,6 +1,6 @@
 ## Giter8 template for Lift 2.4, Scala 2.9, blank, html5-ready
 
-### Quick Setup:
+### Quick Start:
 
 1.  Install [Java SDK][1] or [OpenJDK][0].
 2.  Install the [Typesafe Stack][8] (Scala, sbt, sbt-extras, giter8) \*
@@ -15,7 +15,7 @@
 
 Lift will be running on localhost:9000.
     
-\* *Multiple install options.  For \***nix users, if you choose to install via repo for your distro, a required dependency is OpenJDK.  If you already have Oracle Java installed and want to run Typesafe and Lift on that instead of OpenJDK, your best bet is to use the last option on the download page - the Unversal Installer (just a zipped archive you put anywhere and add the bin directory to your PATH).*
+\* *Multiple install options.  For \***nix users, if you choose to install Typesafe Stack via the Typesafe repo for your distro, a required dependency is OpenJDK.  If you already have Oracle Java installed and don't want to add OpenJDK to your system via package manager required dependency, your best bet is to use the last option on the download page - the Unversal Installer (just a zipped archive you put anywhere and add the bin directory to your PATH).*
 
 ### Requires:
 
@@ -29,8 +29,8 @@ Lift will be running on localhost:9000.
 
 ### Installs:
 
-5.  [lifty sbt plugin][6] to ~/.sbt/plugins
-6.  this lift project template in the current directory
+6.  [lifty sbt plugin][6] to ~/.sbt/plugins
+7.  this lift project template in the current directory
 
 
 [0]:  http://openjdk.java.net/install/

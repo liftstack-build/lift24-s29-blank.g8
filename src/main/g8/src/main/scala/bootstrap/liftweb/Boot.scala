@@ -16,7 +16,7 @@ import Loc._
  */
 class Boot {
   def boot {
-    
+  
     // where to search snippet
     LiftRules.addToPackages("code")
 

@@ -4,6 +4,11 @@
 # #############################
 #*
 #!*.*
+test
+lift
+!lifty*
+!lift_24_sbt
+!lift-helpers
 
 # new and old versions of conffiles, stored by dpkg
 *.dpkg-*

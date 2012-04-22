@@ -3,17 +3,18 @@
 ### Quick Start:
 
 1.  Install [Java SDK][1] or [OpenJDK][0].
-2.  Install the [Typesafe Stack][8] (Scala, sbt, sbt-extras, giter8) \*
+2.  Install the [Typesafe Stack][8] (Scala, [sbt][3], [sbt-extras][5], [giter8][4]) \*
 3.  Install Lift and this template using giter8, run it with sbt and lifty:
 
 <div></div>
 
-    g8 lift-stack/lift24-s29-blank
+    cd ~/bin (or wherever you want giter8 to create your Lift project directory)
+    g8 lift-stack/lift24-s29-blank (or see [list of available Lift project templates][7])
     cd lift24-s29-blank (or whatever project name you choose from previous step)
     sbt
-    lift jetty-run
+    container:start
 
-Lift will be running on localhost:9000.
+Lift will be running on localhost:8080.  Try it out by [building a multiuser chap app in about 20 lines of code][9].
     
 \* *Multiple install options.  For \***nix users, if you choose to install Typesafe Stack via the Typesafe repo for your distro, a required dependency is OpenJDK.  If you already have Oracle Java installed and don't want to add OpenJDK to your system via package manager required dependency, your best bet is to use the last option on the download page - the Unversal Installer (just a zipped archive you put anywhere and add the bin directory to your PATH).*
 
@@ -36,10 +37,10 @@ Lift will be running on localhost:9000.
 [0]:  http://openjdk.java.net/install/
 [1]:  http://oracle.com/java 
 [2]:  http://www.scala-lang.org/downloads 
-[3]:  https://github.com/harrah/xsbt/ 
-[4]:  https://github.com/n8han/giter8 
-[5]:  https://github.com/paulp/sbt-extras
-[6]:  https://github.com/Lifty/lifty 
-
+[3]:  http://github.com/harrah/xsbt/ 
+[4]:  http://github.com/n8han/giter8 
+[5]:  http://github.com/paulp/sbt-extras
+[6]:  http://github.com/Lifty/lifty 
+[7]:  http://github.com/lift-stack/giter8-templates
 [8]:  http://typesafe.com/stack/download 
-
+[9]:  http://simply.liftweb.net/index-Chapter-2.html#toc-Chapter-2
